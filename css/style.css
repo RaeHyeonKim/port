@@ -1,0 +1,125 @@
+*{margin: 0;}
+html{font-size: 10px;}
+body{font-size: 1rem;}
+a{text-decoration: none;}
+
+header{background-color: #2E057A;width: 100%;height: 8rem;}
+header > nav{margin: auto;width: 102.4rem;display: flex;justify-content: space-between;align-items: center;height: 8rem;}
+
+header > nav > .menu{display: inline-block;}
+header > nav > .menu > ul {list-style: none;}
+header > nav > .menu > ul > li {float: left;margin: 0rem 1.7rem;}
+header > nav > .menu > ul > li > a {color: #AAAAAA;font-family: 'Noto Sans KR', sans-serif;font-size: 1.6rem;font-weight: 500;letter-spacing: -0.03rem;}
+header > nav > .menu > ul > li > a:hover {color:#ffffff;}
+
+
+section > .keyvisual{background-image: url('../img/02_keyvisual_bg.png');height: 70rem;}
+section > .keyvisual > .keyvisual_wrap {margin: auto;width: 102.4rem;height: 70rem;}
+section > .keyvisual > .keyvisual_wrap > .keyvisual_title {padding-top: 20rem; text-align: center;}
+
+section > .profile {background-color: #B8BEB4;height:138.9rem;}
+section > .profile >.profile_wrap{margin: auto;width: 102.4rem;text-align: center;}
+section > .profile > .profile_wrap > .profile_01 {padding-top: 8.2rem;}
+section > .profile > .profile_wrap > .profile_02 {margin-top: 5rem;}
+section > .profile > .profile_wrap > .profile_03 {margin-top: 5rem;}
+section > .profile > .profile_wrap > .profile_04 {margin-top: 5rem;}
+
+footer {background-color: #2C2E2B; height: 9rem;}
+footer > .footer_wrap{margin: auto;width: 102.4rem;}
+footer > .footer_wrap > .footer_logo{float: left;padding-top: 3rem;padding-left: 10rem;}
+footer > .footer_wrap > .footer_txt{float: right;padding-top: 2.5rem;text-align: right;font-family: 'Noto Sans KR', sans-serif;font-size: 1.6rem;font-weight: 300;letter-spacing: -0.03rem;color: #FFFFFF;}
+
+/*----sub page 01----*/
+section > .sub01_key{background-color: #E6E6E6;height: 70rem;background-size: cover;}
+section > .sub01_key > .sub01_key_wrap{margin:auto;width: 102.4rem;}
+section > .sub01_key > .sub01_key_wrap > .sub01_key_title{padding-top: 10rem;}
+
+section > .sub01_cont01{background-color: #4B4D4E; height: 77rem;}
+section > .sub01_cont01 > .sub01_cont01_img{margin: auto;width: 132.8rem;}
+
+section > .sub01_cont02{background-color: #939595; height: 89.7rem;}
+section > .sub01_cont02 > .sub01_cont02_img{margin: auto;width: 107.6rem;padding-top: 7rem;}
+
+section > .sub01_cont03{background-color: #E3E4E4; height: 48.6rem;}
+section > .sub01_cont03 > .sub01_cont03_img{margin: auto;width: 102.4rem;padding-top: 8.3rem;}
+
+section > .sub01_cont04{background-color: #E1E3E9; height: 103.9rem;}
+section > .sub01_cont04 > .sub01_cont04_img{margin: auto;width: 131.6rem;padding-top: 9rem;text-align: center;}
+
+section > .sub01_cont05{background-color: #FFFFFF; height: 54.2rem;}
+section > .sub01_cont05 > .sub01_cont05_img{margin: auto;width: 102.4rem;padding-top: 4rem;}
+
+footer {background-color: #2C2E2B; height: 9rem;}
+footer > .footer_wrap{margin: auto;width: 102.4rem;}
+footer > .footer_wrap > .footer_logo{float: left;padding-top: 3rem;padding-left: 10rem;}
+footer > .footer_wrap > .footer_txt{float: right;padding-top: 2.5rem;text-align: right;font-family: 'Noto Sans KR', sans-serif;font-size: 1.6rem;font-weight: 300;letter-spacing: -0.03rem;color: #FFFFFF;}
+
+
+/*----sub page 02----*/
+section > .sub02_key{background-color: #E6E6E6;height: 70rem;background-size: cover;}
+section > .sub02_key > .sub02_key_wrap{margin:auto;width: 102.4rem;}
+section > .sub02_key > .sub02_key_wrap > .sub02_key_title{padding-top: 10rem;}
+
+
+section > .sub02_cont01{background-color: #E6E2D2; height: 87.6rem;}
+section > .sub02_cont01 > .sub02_cont01_img{margin: auto;width: 97.4rem;padding-top: 5rem;}
+
+section > .sub02_cont02{background-color: #FFFFFF; height: 75.3rem;}
+section > .sub02_cont02 > .sub02_cont02_img{margin: auto;width: 102.4rem;padding-top: 5.4rem;}
+
+section > .sub02_cont03{background-color: #E6E2D2; height: 137.8rem;}
+section > .sub02_cont03 > .sub02_cont03_img{margin: auto;width: 127.6rem;padding-top: 3.1rem;text-align: center;}
+
+section > .sub02_cont04{background-color: #E8E6EC; height: 104.4rem;}
+section > .sub02_cont04 > .sub02_cont04_img{margin: auto;width: 119.5rem;padding-top: 7.7rem;text-align: center;}
+
+section > .sub02_cont05{background-color: #FFFFFF; height: 57.9rem;}
+section > .sub02_cont05 > .sub02_cont05_img{margin: auto;width: 92.5rem;padding-top: 6.4rem;}
+
+section > .sub02_cont06{background-color: #F6F6F5; height: 93rem;}
+section > .sub02_cont06 > .sub02_cont06_img{margin: auto;width: 109.2rem;padding-top: 5.9rem;}
+
+section > .sub02_cont07{background-color: #F2E3E9; height: 83.3rem;}
+section > .sub02_cont07 > .sub02_cont07_img{margin: auto;width: 94.1rem;padding-top: 8.7rem;}
+
+section > .sub02_cont08{background-color: #FFFFFF; height: 118.7rem;}
+section > .sub02_cont08 > .sub02_cont08_img{margin: auto;width: 123.7rem;padding-top: 8.7rem;}
+
+footer {background-color: #2C2E2B; height: 9rem;}
+footer > .footer_wrap{margin: auto;width: 102.4rem;}
+footer > .footer_wrap > .footer_logo{float: left;padding-top: 3rem;padding-left: 10rem;}
+footer > .footer_wrap > .footer_txt{float: right;padding-top: 2.5rem;text-align: right;font-family: 'Noto Sans KR', sans-serif;font-size: 1.6rem;font-weight: 300;letter-spacing: -0.03rem;color: #FFFFFF;}
+
+
+/*----sub page 03----*/
+section > .sub03_key{background-color: #E6E6E6;height: 70rem;background-size: cover;}
+section > .sub03_key > .sub03_key_wrap{margin:auto;width: 102.4rem;}
+section > .sub03_key > .sub03_key_wrap > .sub03_key_title{padding-top: 10rem;}
+
+section > .sub03_cont01{background-color: #E1E9F2; height: 90rem;}
+section > .sub03_cont01 > .sub03_cont01_img{margin: auto;width: 118.1rem;padding-top: 4.9rem;}
+
+section > .sub03_cont02{background-color: #FFFFFF; height: 95.4rem;}
+section > .sub03_cont02 > .sub03_cont02_img{margin: auto;width: 102.4rem;padding-top: 7.1rem;}
+
+footer {background-color: #2C2E2B; height: 9rem;}
+footer > .footer_wrap{margin: auto;width: 102.4rem;}
+footer > .footer_wrap > .footer_logo{float: left;padding-top: 3rem;padding-left: 10rem;}
+footer > .footer_wrap > .footer_txt{float: right;padding-top: 2.5rem;text-align: right;font-family: 'Noto Sans KR', sans-serif;font-size: 1.6rem;font-weight: 300;letter-spacing: -0.03rem;color: #FFFFFF;}
+
+/*----sub page 04----*/
+section > .sub04_key{background-color: #E6E6E6;height: 70rem;background-size: cover;}
+section > .sub04_key > .sub04_key_wrap{margin:auto;width: 102.4rem;}
+section > .sub04_key > .sub04_key_wrap > .sub04_key_title{padding-top: 10rem;}
+
+section > .sub04_cont01{background-color: #FFFFFF; height: 121.8rem;}
+section > .sub04_cont01 > .sub04_cont01_img{margin: auto;width: 121.6rem;padding-top: 11.7rem;}
+
+footer {background-color: #2C2E2B; height: 9rem;}
+footer > .footer_wrap{margin: auto;width: 102.4rem;}
+footer > .footer_wrap > .footer_logo{float: left;padding-top: 3rem;padding-left: 10rem;}
+footer > .footer_wrap > .footer_txt{float: right;padding-top: 2.5rem;text-align: right;font-family: 'Noto Sans KR', sans-serif;font-size: 1.6rem;font-weight: 300;letter-spacing: -0.03rem;color: #FFFFFF;}
+
+
+.top_bt{background-image: url('../img/07_top_01.png');position: fixed;width: 7.8rem;height: 7.8rem;right: 15rem;bottom: 5rem;}
+.top_bt:hover{background-image: url('../img/07_top_02.png');}
